@@ -10,21 +10,23 @@
 
 4. Icons: Papirus Dark
 
-5. GNOME Extension: 
+5. GNOME Extension:
    
    - Blur my Shell
    - [Dash to Panel](d2p-moktavizen)
    - TopHat
 
-6. Terminal: Black Box
+6. Fetch: [Fastfetch](config.jsonc)
+
+7. Terminal: Black Box
 
    - Color Scheme: [Material Darker](https://github.com/moktavizen/material-blackbox?tab=readme-ov-file#1-material-darker)
    
-7. Shell: zsh
+8. Shell: zsh
 
    - Theme: [powerlevel10k](.p10k.zsh)
 
-8. Fonts:
+9. Fonts:
    
    - UI Font: Lexend Regular 11
    - Terminal Font: Fira Code Nerd Font Mono Regular 12 
