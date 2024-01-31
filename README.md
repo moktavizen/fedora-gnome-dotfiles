@@ -1,6 +1,6 @@
 # GNOME Linux Dotfiles
 
-Dotfiles for my Fedora Linux GNOME setup.
+[Dotfiles](https://github.com/moktavizen/gnome-linux-dotfiles) for my Fedora Linux GNOME setup.
 
 1. Wallpaper: [Jellyspace](wallpaper) by [angoes25](https://www.instagram.com/angoes25/)
 
@@ -31,4 +31,4 @@ Dotfiles for my Fedora Linux GNOME setup.
 
 Preview:
 
-![setup preview](setup-preview.png)
+![setup preview](setup-preview.webp)
