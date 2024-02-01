@@ -2,7 +2,7 @@
 
 📂 [Dotfiles](https://github.com/moktavizen/gnome-linux-dotfiles) for my Fedora Linux GNOME setup.
 
-1. Wallpaper: [Jellyspace](Jellyspace.png) by [angoes25](https://www.instagram.com/angoes25/)
+1. Wallpaper: My edit of [Jellyspace](Jellyspace.png) by [angoes25](https://www.instagram.com/angoes25/)
 2. GTK 4 Theme: Fedora GNOME default (Adwaita)
 3. GTK 2/3 Theme: [adw-gtk3](https://github.com/lassekongo83/adw-gtk3)-dark
 4. Icons: [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) Dark
