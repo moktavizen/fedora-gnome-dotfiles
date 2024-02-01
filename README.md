@@ -10,16 +10,16 @@
    - Blur my Shell
    - [Dash to Panel](d2p-moktavizen)
    - TopHat
-6. Fetch: 
-   - [Fastfetch Mini](fastfetch-mini.jsonc)
-   - [Fastfetch Full](fastfetch-full.jsonc)
-7. Terminal: Black Box
-   - Color Scheme: [Material Darker](https://github.com/moktavizen/material-blackbox?tab=readme-ov-file#1-material-darker)
-8. Shell: zsh
-   - Theme: [powerlevel10k](.p10k.zsh)
-9.  Fonts:
+6. Fonts:
    - UI Font: [Lexend](https://fonts.google.com/specimen/Lexend) Regular 11
-   - Terminal Font: [Fira Code Nerd Font Mono](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraCode/Regular#which-font) Regular 12 
+   - Terminal Font: [Fira Code Nerd Font Mono](https://www.nerdfonts.com/font-downloads) Regular 12 
+7. Shell: zsh
+   - Theme: [powerlevel10k](.p10k.zsh)
+8. Terminal: Black Box
+   - Color Scheme: [Material Theme Darker](https://github.com/moktavizen/material-blackbox)
+9. Fetch: 
+   - Fastfetch: [Mini](fastfetch-mini.jsonc)
+   - Fastfetch: [Full](fastfetch-full.jsonc)
 
 Preview:
 
