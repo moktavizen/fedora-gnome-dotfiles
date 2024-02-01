@@ -17,9 +17,9 @@
    - Theme: [powerlevel10k](.p10k.zsh)
 8. Terminal: Black Box
    - Color Scheme: [Material Theme Darker](https://github.com/moktavizen/material-blackbox)
-9. Fetch: 
-   - Fastfetch: [Mini](fastfetch-mini.jsonc)
-   - Fastfetch: [Full](fastfetch-full.jsonc)
+9. Fetch: Fastfetch
+   - [Mini Version](fastfetch-mini.jsonc)
+   - [Full Version](fastfetch-full.jsonc)
 
 Preview:
 
