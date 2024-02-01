@@ -18,8 +18,8 @@
 8. Terminal: Black Box
    - Color Scheme: [Material Theme Darker](https://github.com/moktavizen/material-blackbox)
 9. Fetch: Fastfetch
-   - [Mini Version](fastfetch-mini.jsonc)
-   - [Full Version](fastfetch-full.jsonc)
+   - [Mini Version](https://github.com/moktavizen/gnome-linux-dotfiles/blob/main/fastfetch-mini.jsonc)
+   - [Full Version](https://github.com/moktavizen/gnome-linux-dotfiles/blob/main/fastfetch-full.jsonc)
 
 Preview:
 
