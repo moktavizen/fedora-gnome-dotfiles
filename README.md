@@ -1,6 +1,6 @@
 # GNOME Linux Dotfiles
 
-📂 [Dotfiles](https://github.com/moktavizen/gnome-linux-dotfiles) for my Fedora Linux GNOME setup.
+📂 [Dotfiles](https://github.com/moktavizen/fedora-gnome-dotfiles) for my Fedora Linux GNOME setup.
 
 1. Wallpaper: My edit of [Jellyspace](Jellyspace.png) by [angoes25](https://www.instagram.com/angoes25/)
 2. GTK 4 Theme: Fedora GNOME default (Adwaita)
